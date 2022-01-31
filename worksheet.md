@@ -1,6 +1,6 @@
 # 01/31 Worksheet: ArrayLists and LinkedLists
 ## Initial due date: *02/04 @5pm*
-#### accepted as on time until 01/06 @11:59pm
+#### accepted as on time until 02/06 @11:59pm
 
 Collaborators:
 
