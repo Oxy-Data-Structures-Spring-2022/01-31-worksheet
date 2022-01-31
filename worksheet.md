@@ -6,7 +6,7 @@ Answer the below questions, and make sure that you commit to your own branch.
 When done, make a pull request and tag @irabkina.
 Respond to my comments by making new commits to the same branch.
 
-## ## Review
+## Review
 1. In your own words, explain what an ArrayList is. 
 
 2. In your own words, explain what a LinkedList is. How is it different from an ArrayList?
