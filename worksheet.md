@@ -1,5 +1,7 @@
 # 01/31 Worksheet: ArrayLists and LinkedLists
-## Initial due date: *09/10*
+## Initial due date: *02/04 @5pm*
+#### accepted as on time until 01/30 @11:59pm
+
 Collaborators:
 
 Answer the below questions, and make sure that you commit to your own branch.
